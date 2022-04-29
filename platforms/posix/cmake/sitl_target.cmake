@@ -156,6 +156,8 @@ set(models
 	iris_obs_avoid
 	iris_opt_flow
 	iris_opt_flow_mockup
+	iris_2d_lidar
+	iris_depth_camera
 	iris_rplidar
 	iris_vision
 	nxp_cupcar
